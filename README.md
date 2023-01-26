@@ -4,7 +4,7 @@
 **lilyyang93/lilyyang93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 # 💫 About Me:
-🖐🏼 former hand therapist (OT)<br>🌺 currently in Oahu, but moving to Los Angeles<br>🛠️ currently working on a dog social networking app<br>🌱 currently learning more about Test Driven Development <br>👩🏻‍💻 would like to learn Elixir & TypeScript next <br>🌈 pronouns: she/her<br>⚡️ fun fact: I spend a lot of time training/hiking with my German shepherd, Mamba
+🖐🏼 former hand therapist (OT)<br>🌺 located in Oahu, but moving to Los Angeles<br>🛠️ working on: a dog social networking app<br>🌱 currently learning: reviewing data structures & algorithms <br>👩🏻‍💻 would like to learn Elixir & TypeScript next <br>🌈 pronouns: she/her<br>⚡️ fun fact: I spend a lot of time training/hiking with my German shepherd, Mamba
 
 
 ## 🌐 Socials:
